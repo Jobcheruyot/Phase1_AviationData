@@ -13,3 +13,25 @@ Key Findings
 High-Risk Aircraft Models:
 Aircraft models such as Cessna, Piper, and Beech have been associated with the highest accident rates.
 This analysis provides valuable insights for improving safety measures, guiding purchasing decisions, and reducing overall operational risks for the company.
+Files in This Repository
+Phase One Project Presentation.pdf:
+A concise presentation summarizing key insights and findings from the analysis.
+
+A Jupyter Notebook containing the full analysis process, including data cleaning, visualization, and interpretation of results.
+
+A summary of Tableau visualizations highlighting trends and patterns in the aviation data.
+https://public.tableau.com/app/profile/job.cheruyot/viz/PHASE1/Dashboard-Data?publish=yes
+
+Interactive Tableau Dashboard: Explore Here
+Tools and Methodologies
+Data Sources:
+The dataset was sourced from the National Transportation Safety Board (NTSB).
+
+Visualization Tools:
+
+Tableau: Used to create interactive dashboards for exploring data insights.
+Python Libraries: Analysis was performed using Pandas, Matplotlib, and Seaborn for data manipulation and visualizations.
+Code and Analysis:
+The analysis steps are documented and reproducible in the Jupyter Notebook.
+
+Thank you for exploring the Aviation Data Analysis project! Your feedback is greatly appreciated.
