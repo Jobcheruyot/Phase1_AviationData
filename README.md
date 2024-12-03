@@ -44,3 +44,13 @@ Despite the accidents/Incidents 87% of the accidents had no Injuries. 9.3% of th
   - Ineffective weather monitoring systems
   - Pilot trainings and prior experience piloting in adverseweather
 + Study and Trainings: Countries with many minor or non-fatal accidents to be used for targeted pilot training and enhanced preventivemeasures.
+
+###### OTHER ATTACHMENTS
+
+1) Tableau URL is https://public.tableau.com/app/profile/job.cheruyot/viz/Job_Tableau_Aviation_Data_/Dashboard-Data?publish=yes
+2) Notebook
+3) Notebook pdf
+4) Power point PDF
+5) Tableau PDF
+
+
