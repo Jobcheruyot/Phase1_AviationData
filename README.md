@@ -31,3 +31,16 @@ There is a direct Correlation between the VMC weather and the Frequency of accid
 ![Alt text](https://private-user-images.githubusercontent.com/185777876/391898565-12bdea95-1345-4a69-8953-82ec1a41a647.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMyMTgyMTQsIm5iZiI6MTczMzIxNzkxNCwicGF0aCI6Ii8xODU3Nzc4NzYvMzkxODk4NTY1LTEyYmRlYTk1LTEzNDUtNGE2OS04OTUzLTgyZWMxYTQxYTY0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIwM1QwOTI1MTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTcyMDcyNzU2MDc4YTI1ZjhjNDYxY2U4MDdhYzdlMTc4NzE3OTUxOWNhYzgwNmNmYTk2MWZlMDM0NDE4NTFiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.j8NdMHrxbnRvWgSt6DWNhL9oEXf7K836tGuxpCzwIo8)
 
 Despite the accidents/Incidents 87% of the accidents had no Injuries. 9.3% of the accidintes were however fatal.
+
+###### FINDINGS
++ Accidents are more likely to happen in specific  weather conditions compared to others .i.e VMC
++ The reciprocation engine type perfoms poorly in the VMC weather condition
++ The 13% non fatal and fatal Injuries is very high
+
+###### RECOMENDATIONS
+
++ Engene type Reciprocating engenes is is not reliable.Relative to the other types of engene its more likely to be invoved in an accidents. Makesup 84% of all the recorded incidents
++ Address Weather-Related Risks:could be caused by :
+  - Ineffective weather monitoring systems
+  - Pilot trainings and prior experience piloting in adverseweather
++ Study and Trainings: Countries with many minor or non-fatal accidents to be used for targeted pilot training and enhanced preventivemeasures.
