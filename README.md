@@ -4,7 +4,7 @@ The main goal is to analyze and predict the risks associated with purchasing and
 
 ## PROBLEM STATEMENT
 
-The goal of this analysis is to examine the AviationData dataset to identify key factors influencing the viability of a project focused on aircraft operations. Specifically, I will assess the risks associated with airplane accidents and the survival rates following such incidents.
+The goal of this analysis is to identyfy key factors influencing the viability of aircraft operations. Specifically, risks associated with airplane accidents and the survival rates following such incidents shall be key.This is to minimize risk to passangers and the aviation company
 
 ## OBJECTIVES OF THE ANALYSIS
 
