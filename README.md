@@ -20,6 +20,6 @@ The National Transportation Safety Board (NTSB), an independent U.S. government 
 Predictive modeling and descriptive analysis are used in this project to examine historical aviation data, identifying trends in aircraft performance, accident rates, and safety records. These methods uncover key patterns and provide insights to enhance aviation safety
 
 ##### RESULTS
-![Alt text](https://github.com/Jobcheruyot/Phase1_AviationData/issues/1#issue-2714313823)
+![Alt text](https://github.com/Jobcheruyot/Phase1_AviationData/issues/3#issue-2714340991)
 
 
