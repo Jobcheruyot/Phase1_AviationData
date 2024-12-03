@@ -1,37 +1,23 @@
-Aviation Data Analysis
-This project focuses on analyzing aviation accident data to help a company identify the lowest-risk aircraft for their commercial and private operations. The primary objective is to provide actionable insights derived from historical accident trends, severity levels, and aircraft characteristics. These insights will support the company in reducing operational risks and making well-informed decisions when purchasing aircraft.
+# BUSINESS UNDERSTANDING
 
-Data Cleaning Process
-Data Collection:
-The dataset was sourced from the National Transportation Safety Board (NTSB) and is available on Kaggle: Aviation Accident Database.
+The main goal is to analyze and predict the risks associated with purchasing and operating airplanes for both commercial and private enterprises, as part of my company's new diversification strategy.
 
-Data Cleaning:
+## PROBLEM STATEMENT
 
-Missing values were identified and appropriately handled to ensure the accuracy and reliability of the analysis.
-Additional data transformations were applied where necessary to enhance consistency.
-Key Findings
-High-Risk Aircraft Models:
-Aircraft models such as Cessna, Piper, and Beech have been associated with the highest accident rates.
-This analysis provides valuable insights for improving safety measures, guiding purchasing decisions, and reducing overall operational risks for the company.
-Files in This Repository
-Phase One Project Presentation.pdf:
-A concise presentation summarizing key insights and findings from the analysis.
+The goal of this analysis is to examine the AviationData dataset to identify key factors influencing the viability of a project focused on aircraft operations. Specifically, I will assess the risks associated with airplane accidents and the survival rates following such incidents.
 
-A Jupyter Notebook containing the full analysis process, including data cleaning, visualization, and interpretation of results.
+## OBJECTIVES OF THE ANALYSIS
 
-A summary of Tableau visualizations highlighting trends and patterns in the aviation data.
-https://public.tableau.com/app/profile/job.cheruyot/viz/PHASE1/Dashboard-Data?publish=yes
++ Investigate the relationship between engine type and the frequency of accidents.
++ Examine the correlation between the number of engines per aircraft and the recorded number of accidents.
++ Identify and analyze key factors that contribute to aircraft accidents, such as weather conditions and amateur-built aircraft.
 
-Interactive Tableau Dashboard: Explore Here
-Tools and Methodologies
-Data Sources:
-The dataset was sourced from the National Transportation Safety Board (NTSB).
+### DATA
+The National Transportation Safety Board (NTSB), an independent U.S. government agency dedicated to collecting data and conducting investigations to minimize accidents, has provided data dating back to 1962. This data primarily covers accidents occurring within the United States and Canada. The datasets include critical factors that could contribute to accidents, such as weather conditions, engine details, pilot information, and the phase of flight.
 
-Visualization Tools:
+#### METHODS
 
-Tableau: Used to create interactive dashboards for exploring data insights.
-Python Libraries: Analysis was performed using Pandas, Matplotlib, and Seaborn for data manipulation and visualizations.
-Code and Analysis:
-The analysis steps are documented and reproducible in the Jupyter Notebook.
+Predictive modeling and descriptive analysis are used in this project to examine historical aviation data, identifying trends in aircraft performance, accident rates, and safety records. These methods uncover key patterns and provide insights to enhance aviation safety
 
-Thank you for exploring the Aviation Data Analysis project! Your feedback is greatly appreciated.
+##### RESULTS
+
